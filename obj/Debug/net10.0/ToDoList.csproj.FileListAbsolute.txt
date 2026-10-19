@@ -1,0 +1,14 @@
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.AssemblyInfoInputs.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.AssemblyInfo.cs
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/bin/Debug/net10.0/ToDoList
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/bin/Debug/net10.0/ToDoList.deps.json
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/bin/Debug/net10.0/ToDoList.runtimeconfig.json
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/bin/Debug/net10.0/ToDoList.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/bin/Debug/net10.0/ToDoList.pdb
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/refint/ToDoList.dll
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.pdb
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ToDoList.genruntimeconfig.cache
+/Users/husseinal-hejami/Documents/CodeAlonge/projekt-01/ToDoList/obj/Debug/net10.0/ref/ToDoList.dll
