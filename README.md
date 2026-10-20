@@ -1,4 +1,4 @@
-# To-Do List...
+# To-Do List
 
 A simple console-based To-Do List application built with C# and .NET.
 
